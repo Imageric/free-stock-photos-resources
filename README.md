@@ -2,6 +2,8 @@
 
 *The most completed and updated resources of free stock photos under Creative Commons Zero licence, as known as Public Domain. Millions of free photos for personal and commercial usage with no costs.*
 
+**Last update: January 31, 2019**
+ 
 | Name                          | URL                                           | Popularity (Alexa) |
 |-------------------------------|-----------------------------------------------|--------------------|
 | freepik.com                   | https://www.freepik.com/                      | 201                |
@@ -92,26 +94,26 @@
 | freeblogphotos.org            | http://freeblogphotos.org/                    | 7355336            |
 | grallim.com                   | https://grallim.com/                          | 9854096            |
 | dankosmayer.com               | https://www.dankosmayer.com/                  | 13557464           |
-| crowthestone.tumblr.com       | http://crowthestone.tumblr.com/               | 2147483647         |
-| epicantus.tumblr.com          | http://epicantus.tumblr.com/                  | 2147483647         |
-| pickupimage.com               | http://pickupimage.com/                       | 2147483647         |
-| picmelon.com                  | http://picmelon.com/                          | 2147483647         |
-| pikwizard.com                 | https://pikwizard.com/                        | 2147483647         |
-| pixabay.org                   | https://pixabay.org/                          | 2147483647         |
-| rawpixel.com                  | https://www.rawpixel.com/                     | 2147483647         |
-| realisticshots.com            | http://realisticshots.com/                    | 2147483647         |
-| reshot.com                    | https://www.reshot.com/                       | 2147483647         |
-| rgbstock.com                  | http://www.rgbstock.com/                      | 2147483647         |
-| scatterjar.com                | http://scatterjar.com/                        | 2147483647         |
-| shotstash.com                 | http://shotstash.com/                         | 2147483647         |
-| shutteroo.com                 | http://shutteroo.com/                         | 2147483647         |
-| splashbase.co                 | http://splashbase.co/                         | 2147483647         |
-| stock-image-point.com         | http://stock-image-point.com/                 | 2147483647         |
-| stockpholio.net               | http://stockpholio.net/                       | 2147483647         |
-| stockphotosforfree.com        | http://stockphotosforfree.com/                | 2147483647         |
-| stocksnap.io                  | http://stocksnap.io/                          | 2147483647         |
-| stockvault.net                | http://stockvault.net/                        | 2147483647         |
-| travelcoffeebook.com          | http://travelcoffeebook.com/                  | 2147483647         |
-| unprofound.com                | http://unprofound.com/                        | 2147483647         |
-| unsplash.com                  | http://unsplash.com/                          | 2147483647         |
-| visualhunt.com                | http://visualhunt.com/                        | 2147483647         |
+| crowthestone.tumblr.com       | http://crowthestone.tumblr.com/               | -                  |
+| epicantus.tumblr.com          | http://epicantus.tumblr.com/                  | -                  |
+| pickupimage.com               | http://pickupimage.com/                       | -                  |
+| picmelon.com                  | http://picmelon.com/                          | -                  |
+| pikwizard.com                 | https://pikwizard.com/                        | -                  |
+| pixabay.org                   | https://pixabay.org/                          | -                  |
+| rawpixel.com                  | https://www.rawpixel.com/                     | -                  |
+| realisticshots.com            | http://realisticshots.com/                    | -                  |
+| reshot.com                    | https://www.reshot.com/                       | -                  |
+| rgbstock.com                  | http://www.rgbstock.com/                      | -                  |
+| scatterjar.com                | http://scatterjar.com/                        | -                  |
+| shotstash.com                 | http://shotstash.com/                         | -                  |
+| shutteroo.com                 | http://shutteroo.com/                         | -                  |
+| splashbase.co                 | http://splashbase.co/                         | -                  |
+| stock-image-point.com         | http://stock-image-point.com/                 | -                  |
+| stockpholio.net               | http://stockpholio.net/                       | -                  |
+| stockphotosforfree.com        | http://stockphotosforfree.com/                | -                  |
+| stocksnap.io                  | http://stocksnap.io/                          | -                  |
+| stockvault.net                | http://stockvault.net/                        | -                  |
+| travelcoffeebook.com          | http://travelcoffeebook.com/                  | -                  |
+| unprofound.com                | http://unprofound.com/                        | -                  |
+| unsplash.com                  | http://unsplash.com/                          | -                  |
+| visualhunt.com                | http://visualhunt.com/                        | -                  |
